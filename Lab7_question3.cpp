@@ -70,4 +70,4 @@ int main()
      cout<<"\nPerimeter of Rectangle 1 and Rectangle 2 are equal";
    }
    return 0;
- }
+}
